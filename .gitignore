@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/seleniumtest/obj/Debug
+/seleniumtest/Properties/AssemblyInfo.cs
+/seleniumtest/bin/Debug
+/.vs/seleniumtest
